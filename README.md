@@ -1,6 +1,5 @@
 # Remail
 Remail- an email client to contain all your accounts!
-COMING SOON!
 Remail is an open source email client that contains pretty much all your accounts!
 Remail currently supports these email services:
 
@@ -25,3 +24,5 @@ And any links in the emails will be opened in Remail rather than your browser
 
 
 any files in source code that the title is 'r', delete them as I had to make them to make a folder :)
+
+REQUIRES .NET FRAMEWORK 4.8
