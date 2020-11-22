@@ -15,4 +15,6 @@ Gmail will also work with G Suite addresses.
 Remail contains the same thing you would have if you were using the service in the browser, but the twist is you have all your adresses together!
 And any links in the emails will be opened in Remail rather than your browser
 
-COMING SOON TO WINDOWS
+
+
+any files in source code that the title is 'r', delete them as I had to make them to make a folder :)
