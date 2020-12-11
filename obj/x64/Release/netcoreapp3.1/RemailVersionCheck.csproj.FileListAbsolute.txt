@@ -1,0 +1,12 @@
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\bin\x64\Release\netcoreapp3.1\RemailVersionCheck.exe
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\bin\x64\Release\netcoreapp3.1\RemailVersionCheck.deps.json
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\bin\x64\Release\netcoreapp3.1\RemailVersionCheck.runtimeconfig.json
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\bin\x64\Release\netcoreapp3.1\RemailVersionCheck.runtimeconfig.dev.json
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\bin\x64\Release\netcoreapp3.1\RemailVersionCheck.dll
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\bin\x64\Release\netcoreapp3.1\RemailVersionCheck.pdb
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\obj\x64\Release\netcoreapp3.1\RemailVersionCheck.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\obj\x64\Release\netcoreapp3.1\RemailVersionCheck.AssemblyInfo.cs
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\obj\x64\Release\netcoreapp3.1\RemailVersionCheck.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\obj\x64\Release\netcoreapp3.1\RemailVersionCheck.dll
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\obj\x64\Release\netcoreapp3.1\RemailVersionCheck.pdb
+C:\Users\owens\Desktop\Coding\C#\Remail\RemailVersionCheck\obj\x64\Release\netcoreapp3.1\RemailVersionCheck.genruntimeconfig.cache
