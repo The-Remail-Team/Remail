@@ -1,5 +1,20 @@
+![Logo](https://the-remail-team.github.io/Remail/img/remail%20icon%20big.png)
+
+
 # Remail
-Remail- an email client to contain all your accounts! Remail is an open source email client that contains pretty much all your accounts! Remail currently supports these email services: Gmail Outlook iCloud Mail Yahoo Mail Mail.com
+Remail- an email client to contain all your accounts! Remail is an open source email client that contains pretty much all your accounts! Remail currently supports these email services: 
+
+Gmail 
+
+Outlook 
+
+iCloud Mail 
+
+Yahoo Mail 
+
+Mail.com
+
+GMX
 
 Gmail will also work with G Suite addresses.
 
