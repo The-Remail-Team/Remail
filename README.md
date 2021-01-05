@@ -1,4 +1,4 @@
-![Logo](https://the-remail-team.github.io/img/remail%20icon%20big.png)
+![Logo](https://the-remail-team.github.io/images/remail%20icon%20big.png)
 
 
 # Remail
