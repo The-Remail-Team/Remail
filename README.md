@@ -2,7 +2,9 @@
 
 
 # Remail
-Remail- an email client to contain all your accounts! Remail is an open source email client that contains pretty much all your accounts! Remail currently supports these email services: 
+The email client where security comes first.
+
+Remail is an open source email client that contains pretty much all your accounts! Remail currently supports these email services: 
 
 Gmail 
 
